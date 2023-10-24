@@ -89,12 +89,13 @@ Note:
 
 
 ## Requirements 
+
 ### WeatherPy - Create Plots to Showcase the Relationship Between Weather Variables and Latitude (30 points)
-- [ ] Use the OpenWeatherMap API to retrieve weather data from the cities list generated in the started code (10 points)
-- [ ] Create a scatter plot to showcase the relationship between Latitude vs. Temperature (5 points)
-- [ ] Create a scatter plot to showcase the relationship between Latitude vs. Humidity (5 points)
-- [ ] Create a scatter plot to showcase the relationship between Latitude vs. Cloudiness (5 points)
-- [ ] Create a scatter plot to showcase the relationship between Latitude vs. Wind Speed (5 points)
+- [X] Use the OpenWeatherMap API to retrieve weather data from the cities list generated in the started code (10 points)
+- [X] Create a scatter plot to showcase the relationship between Latitude vs. Temperature (5 points)
+- [X] Create a scatter plot to showcase the relationship between Latitude vs. Humidity (5 points)
+- [X] Create a scatter plot to showcase the relationship between Latitude vs. Cloudiness (5 points)
+- [X] Create a scatter plot to showcase the relationship between Latitude vs. Wind Speed (5 points)
 
 ### WeatherPy - Compute Linear Regression for Each Relationship (40 points)
 - [ ] Linear regression scatter plot for Northern Hemisphere: Temperature (C) vs. Latitude (5 points)
