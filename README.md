@@ -108,11 +108,12 @@ Note:
 - [X] Linear regression scatter plot for Southern Hemisphere: Wind Speed (m/s) vs. Latitude (5 points)
 
 ### VacationPY - (30 points)
-- [ ] Create a map that displays a point for every city in the city_data_df DataFrame (5 points)
-- [ ] Narrow down the city_data_df DataFrame to find your ideal weather condition (5 points)
-- [ ] For each city in the hotel_df DataFrame, use the Geoapify API to find the first hotel located within 10,000 metres of your coordinates (10 points)
-- [ ] Add the hotel name and the country as additional information in the hover message for each city in the map. (10 points)
+- [X] Create a map that displays a point for every city in the city_data_df DataFrame (5 points)
+- [X] Narrow down the city_data_df DataFrame to find your ideal weather condition (5 points)
+- [X] For each city in the hotel_df DataFrame, use the Geoapify API to find the first hotel located within 10,000 metres of your coordinates (10 points)
+- [X] Add the hotel name and the country as additional information in the hover message for each city in the map. (10 points)
 
 
 ## Credits 
-N/A
+* Received comments and guidance from Instructor, Teaching Assistant 
+* Used stackoverflow and module documentation for specific details
